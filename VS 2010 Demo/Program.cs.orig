@@ -11,9 +11,12 @@ namespace VS_2010_Demo
         {
             //Changes on the Main Branch from VS 2010
             //v1.1 changes
+<<<<<<< Updated upstream
 
-            //these changes will be stashed
             //master changes
+=======
+            //these changes will be stashed
+>>>>>>> Stashed changes
         }
     }
 }
