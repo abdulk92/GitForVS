@@ -15,6 +15,7 @@ namespace VS_2010_Demo
             //these changes will be stashed
             //master changes
             //feature 1.1.5 changes
+            //more changes
         }
     }
 }
