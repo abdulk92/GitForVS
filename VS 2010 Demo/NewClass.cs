@@ -7,5 +7,6 @@ namespace VS_2010_Demo
 {
     class NewClass
     {
+        //additional 1.1 changes
     }
 }
